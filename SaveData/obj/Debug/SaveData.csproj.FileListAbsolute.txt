@@ -1,0 +1,4 @@
+C:\Users\Asus\Desktop\Siguri\1\SaveDataInWindowsLog\SaveData\obj\Debug\SaveData.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Siguri\1\SaveDataInWindowsLog\SaveData\obj\Debug\SaveData.ProjectInstaller.resources
+C:\Users\Asus\Desktop\Siguri\1\SaveDataInWindowsLog\SaveData\obj\Debug\SaveData.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Siguri\1\SaveDataInWindowsLog\SaveData\obj\Debug\SaveData.csproj.CoreCompileInputs.cache

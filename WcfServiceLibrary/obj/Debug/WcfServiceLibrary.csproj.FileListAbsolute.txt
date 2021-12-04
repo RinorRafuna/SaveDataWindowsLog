@@ -1,0 +1,2 @@
+C:\Users\Asus\Desktop\Siguri\1\SaveDataInWindowsLog\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Siguri\1\SaveDataInWindowsLog\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.csproj.CoreCompileInputs.cache
