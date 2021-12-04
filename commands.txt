@@ -1,0 +1,6 @@
+Remove-Service -Name "SaveData"
+
+New-Service -Name "SaveData" -BinaryPathName C:\Users\Asus\source\repos\SaveDataInWindowsLog\SaveData\bin\Debug\SaveData.exe
+
+
+C:\Users\Asus\source\repos\SaveDataInWindowsLog\SaveData\bin\Debug

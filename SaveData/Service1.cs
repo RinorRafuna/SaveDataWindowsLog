@@ -7,7 +7,7 @@ using System.Linq;
 using System.ServiceProcess;
 using System.Text;
 using System.Threading.Tasks;
-using WcfServiceLibrary;
+// using WcfServiceLibrary;
 using System.ServiceModel;
 
 namespace SaveData
@@ -20,7 +20,7 @@ namespace SaveData
         {
             InitializeComponent();
         }
-     
+        /*
         protected override void OnStart(string[] args)
         {
             host = new ServiceHost(typeof(TransportData.Service1Client));
@@ -28,8 +28,8 @@ namespace SaveData
             
 
 
-        }
-   /*     protected void OnStart(string username1, string passwrod1)
+        }*/
+      protected void OnStart(string username1, string passwrod1)
         {
             host = new ServiceHost(typeof(TransportData.Service1Client));
             host.Open();
@@ -44,7 +44,7 @@ namespace SaveData
             systemEventLog.WriteEntry("Username:" + username1 + "password:" + passwrod1, EventLogEntryType.Warning, 150);
 
 
-        }*/
+        }
         protected void WriteIntoWinLog(string input1,string input2)
         {
             string source = "Writing user info";

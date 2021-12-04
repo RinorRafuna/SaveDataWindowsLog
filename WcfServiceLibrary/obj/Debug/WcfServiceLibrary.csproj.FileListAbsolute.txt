@@ -1,2 +1,11 @@
 C:\Users\Asus\Desktop\Siguri\1\SaveDataInWindowsLog\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.csprojAssemblyReference.cache
 C:\Users\Asus\Desktop\Siguri\1\SaveDataInWindowsLog\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Faza 1\SaveDataInWindowsLog\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Faza 1\SaveDataInWindowsLog\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.dll.config
+C:\Users\Asus\source\repos\Faza 1\SaveDataInWindowsLog\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.dll
+C:\Users\Asus\source\repos\Faza 1\SaveDataInWindowsLog\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.pdb
+C:\Users\Asus\source\repos\Faza 1\SaveDataInWindowsLog\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.dll
+C:\Users\Asus\source\repos\Faza 1\SaveDataInWindowsLog\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.pdb
+C:\Users\Asus\source\repos\Faza 1\SaveDataInWindowsLog\WcfServiceLibrary\bin\Debug\SaveData.exe
+C:\Users\Asus\source\repos\Faza 1\SaveDataInWindowsLog\WcfServiceLibrary\bin\Debug\SaveData.pdb
+C:\Users\Asus\source\repos\Faza 1\SaveDataInWindowsLog\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.csproj.CopyComplete
